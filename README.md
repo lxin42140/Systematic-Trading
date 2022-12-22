@@ -1,3 +1,4 @@
 # Systematic Trading Strategies and Portfolio Management
 
-Project for IS4226 Systematic Trading Strategies and Systems
+1) Event-based backtester with strategies that uses Chaikin Money Flow Index, EMA, and Bollinger Band.
+2) Portfolio creation using SGX stocks to achieve diversification and maximize risked adjusted returns.
